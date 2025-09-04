@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor",
+  "description": "Upload a photo of yourself and use AI to add a guy or a girl with a custom outfit right next to you.",
+  "requestFramePermissions": []
+}
